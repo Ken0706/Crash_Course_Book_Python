@@ -1,0 +1,6 @@
+lst = list(range(1,28))
+mid_index = int(len(lst)/2)
+print(mid_index)
+print("Three numbers first : ", lst[:3])
+print("Three numbers middle : ", lst[mid_index:mid_index + 3])
+print("Three numbers last : ", lst[-3:])
