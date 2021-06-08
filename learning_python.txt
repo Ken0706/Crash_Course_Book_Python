@@ -1,0 +1,4 @@
+In Python you can calculate number.
+In Python you can sum number from 0 to n.
+In Python you can draw.
+In Python you can do everything.
