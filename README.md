@@ -1,1 +1,1 @@
-# Excercise of Crash Course Python Book
+# Excercise of Python Crash Course book
